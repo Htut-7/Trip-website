@@ -1,0 +1,44 @@
+{
+  "trips": [
+    {
+      "id": 1,
+      "title": "Bali Beach Escape",
+      "price": 499,
+      "category": "Beach",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "description": "Experience the ultimate tropical escape in Bali. Relax on pristine beaches, swim in crystal-clear waters, and witness breathtaking sunsets. This trip includes beachfront accommodation, island tours, cultural experiences, and plenty of time to unwind in paradise."
+    },
+    {
+      "id": 2,
+      "title": "Swiss Alps Adventure",
+      "price": 1299,
+      "category": "Mountain",
+      "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "description": "Embark on an unforgettable adventure through the Swiss Alps. Enjoy scenic train rides, mountain hikes, snow-capped peaks, and charming alpine villages. Perfect for nature lovers seeking fresh air and stunning landscapes."
+    },
+    {
+      "id": 3,
+      "title": "Tokyo City Explorer",
+      "price": 899,
+      "category": "City",
+      "image": "https://images.unsplash.com/photo-1549693578-d683be217e58",
+      "description": "Dive into the heart of Tokyo, where tradition meets technology. Explore iconic landmarks, indulge in world-famous cuisine, shop in vibrant districts, and experience Japan’s unique culture and nightlife."
+    },
+    {
+      "id": 4,
+      "title": "Safari in Kenya",
+      "price": 1599,
+      "category": "Adventure",
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+      "description": "Witness wildlife like never before on an African safari in Kenya. Enjoy guided game drives, luxury lodges, and close encounters with lions, elephants, and giraffes across breathtaking savannahs."
+    },
+    {
+      "id": 5,
+      "title": "Paris Romantic Getaway",
+      "price": 999,
+      "category": "City",
+      "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34",
+      "description": "Fall in love with Paris. Stroll along the Seine, admire historic architecture, enjoy candlelight dinners, and explore world-famous art and culture in the city of romance."
+    }
+  ]
+}
